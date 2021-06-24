@@ -1,5 +1,7 @@
 package pageFactory;
 
-public class HomePage  {
+import base.Main;
+
+public class HomePage extends Main {
 
 }
